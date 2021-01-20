@@ -1,0 +1,58 @@
+name: flutter_app
+description: A new Flutter application.
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  flutter_swiper: ^1.1.6
+  flutter_svg: ^0.19.1
+
+  cupertino_icons: ^1.0.0
+  english_words: ^3.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/tab_bar/png/toothpaste.png
+    - assets/images/tab_bar/png/Mask.png
+    - assets/images/tab_bar/png/clouth.png
+    - assets/images/tab_bar/png/shoes.png
+    - assets/images/tab_bar/png/pot.png
+    - assets/images/tab_bar/png/moun1.png
+    - assets/images/tab_bar/png/moun2.png
+    - assets/images/tab_bar/png/moun3.png
+    - assets/images/tab_bar/png/cloud_serve.png
+    - assets/images/tab_bar/png/cloudServe_select.png
+    - assets/images/tab_bar/png/home_select.png
+    - assets/images/tab_bar/png/home.png
+    - assets/images/tab_bar/png/life_select.png
+    - assets/images/tab_bar/png/life.png
+    - assets/images/tab_bar/png/mine_select.png
+    - assets/images/tab_bar/png/mine.png
+    - assets/images/tab_bar/png/strict_select.png
+    - assets/images/tab_bar/png/strict.png
+    - assets/images/tab_bar/svg/customer-service.svg
+    - assets/images/tab_bar/svg/goods-car.svg
+    - assets/images/tab_bar/svg/nav-more.svg
+    - assets/images/view/svg/focus.svg
+    - assets/images/view/svg/littleshop.svg
+    - assets/images/view/svg/location.svg
+    - assets/images/view/svg/restaurant.svg
+    - assets/images/view/svg/scenic.svg
+    - assets/images/view/svg/supermarket.svg
+    - assets/images/view/svg/vegetableBasket.svg
+
+
